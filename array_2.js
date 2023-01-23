@@ -12,3 +12,10 @@ for(let i=0; i<days.length; i++){
 for (let day of days){
     console.log(day);
 }
+
+
+
+
+
+
+console.log('이제 복습좀해라')
